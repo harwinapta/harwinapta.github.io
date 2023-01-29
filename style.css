@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+#about {
+  background-color: lightsteelblue;
+}
+
+.post {
+  text-align: center;
+}
+
+#contact {
+  background-color: rgb(176, 196, 222);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
